@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomView">
+        <attr name="colorSmile" format="color" />
+        <attr name="colorStroke" format="color"/>
+        <attr name="colorCenter" format="color"/>
+        <attr name="titleText" format="string" />
+        <attr name="sizeText" format="dimension" />
+    </declare-styleable>
+</resources>
